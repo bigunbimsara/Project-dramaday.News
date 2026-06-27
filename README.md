@@ -38,7 +38,3 @@ See the live implementation here:
 
 ---
 Maintained with ❤️ for the global Asian Drama & subtitle community. 🍿✨
-
-
-
-Welcome to the official repository for **Project - dramaday.news**. This is a premium, high-performance Blogger template 
